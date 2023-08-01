@@ -1,0 +1,12 @@
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\bin\Debug\net6.0\Devsu.Domain.deps.json
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\bin\Debug\net6.0\Devsu.Domain.dll
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\bin\Debug\net6.0\Devsu.Domain.pdb
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\obj\Debug\net6.0\Devsu.Domain.csproj.AssemblyReference.cache
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\obj\Debug\net6.0\Devsu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\obj\Debug\net6.0\Devsu.Domain.AssemblyInfoInputs.cache
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\obj\Debug\net6.0\Devsu.Domain.AssemblyInfo.cs
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\obj\Debug\net6.0\Devsu.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\obj\Debug\net6.0\Devsu.Domain.dll
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\obj\Debug\net6.0\refint\Devsu.Domain.dll
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\obj\Debug\net6.0\Devsu.Domain.pdb
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Domain\obj\Debug\net6.0\ref\Devsu.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\bin\Debug\net6.0\Devsu.Application.deps.json
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\bin\Debug\net6.0\Devsu.Application.dll
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\bin\Debug\net6.0\Devsu.Application.pdb
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\bin\Debug\net6.0\Devsu.Domain.dll
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\bin\Debug\net6.0\Devsu.Domain.pdb
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\obj\Debug\net6.0\Devsu.Application.csproj.AssemblyReference.cache
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\obj\Debug\net6.0\Devsu.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\obj\Debug\net6.0\Devsu.Application.AssemblyInfoInputs.cache
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\obj\Debug\net6.0\Devsu.Application.AssemblyInfo.cs
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\obj\Debug\net6.0\Devsu.Application.csproj.CoreCompileInputs.cache
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\obj\Debug\net6.0\Devsu.Application.csproj.CopyComplete
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\obj\Debug\net6.0\Devsu.Application.dll
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\obj\Debug\net6.0\refint\Devsu.Application.dll
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\obj\Debug\net6.0\Devsu.Application.pdb
+C:\Users\tobit\OneDrive\Documentos\CleanArchitecture\Devsu.Application\obj\Debug\net6.0\ref\Devsu.Application.dll
